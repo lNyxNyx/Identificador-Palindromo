@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(38, 99, 179);
+
+    font: normal 15pt Arial ;
+
+}
+header{
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+h1{
+    text-shadow: #000 4px 4px 3px;
+   
+}
+section{
+    
+    border: 2px solid #000000;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width:500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+
+}
+input#string1{
+    height: 19px;
+    border: 1px solid #000000;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+}
+#botao{
+    border: 1px solid #000000;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-size: 16px;
+    height: 24px;
+    padding: 2px 20px;
+    margin-left:10px;
+}
+#botao:hover{
+    background-color: #8888;
+    color:white;
+    font-size: 15px;
+    margin-bottom: 1px;
+}
